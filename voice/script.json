@@ -1,0 +1,108 @@
+{
+ "title": "கல்யாண வீட்டு கேள்விகள்",
+ "voices": {
+  "karthi": {
+   "voice": "ta-IN-ValluvarNeural",
+   "rate": "+4%",
+   "pitch": "+12Hz"
+  },
+  "amma": {
+   "voice": "ta-IN-PallaviNeural",
+   "rate": "+0%",
+   "pitch": "+0Hz"
+  },
+  "periyappa": {
+   "voice": "ta-IN-ValluvarNeural",
+   "rate": "-8%",
+   "pitch": "-14Hz"
+  }
+ },
+ "shots": [
+  {
+   "shot": "hall",
+   "pre": 1.4,
+   "post": 0.3,
+   "lines": [
+    {
+     "spk": "periyappa",
+     "text": "டேய் கார்த்தி! எப்படி டா இருக்க? ரொம்ப நாளாச்சு பாத்து."
+    },
+    {
+     "spk": "karthi",
+     "text": "நல்லா இருக்கேன் பெரியப்பா."
+    },
+    {
+     "spk": "periyappa",
+     "text": "இப்போ என்ன பண்ணிட்டு இருக்க?"
+    },
+    {
+     "spk": "karthi",
+     "text": "சென்னைல ஒரு ஐடி கம்பெனில வேலை பாக்குறேன் பெரியப்பா."
+    }
+   ]
+  },
+  {
+   "shot": "salary",
+   "pre": 0.3,
+   "post": 0.9,
+   "lines": [
+    {
+     "spk": "periyappa",
+     "text": "ஓஹோ. சம்பளம் எவ்வளவு டா?"
+    },
+    {
+     "spk": "karthi",
+     "text": "அது... பரவாயில்ல பெரியப்பா."
+    }
+   ]
+  },
+  {
+   "shot": "amma",
+   "pre": 0.4,
+   "post": 0.3,
+   "lines": [
+    {
+     "spk": "amma",
+     "text": "அண்ணா, இவனுக்கு ஒரு நல்ல பொண்ணா பாருங்க."
+    },
+    {
+     "spk": "periyappa",
+     "text": "ஆமா டா, கல்யாணம் எப்போ?"
+    }
+   ]
+  },
+  {
+   "shot": "panic",
+   "pre": 1.8,
+   "post": 0.2,
+   "lines": []
+  },
+  {
+   "shot": "escape",
+   "pre": 0.6,
+   "post": 0.3,
+   "lines": [
+    {
+     "spk": "karthi",
+     "text": "ஹலோ சார்... ஆமா சார்... அர்ஜென்ட் மீட்டிங்கா? இதோ வரேன் சார்!"
+    },
+    {
+     "spk": "periyappa",
+     "text": "டேய்! சாப்பிட்டுட்டு போ டா!"
+    }
+   ]
+  },
+  {
+   "shot": "outside",
+   "pre": 0.8,
+   "post": 3.6,
+   "lines": [
+    {
+     "spk": "karthi",
+     "text": "அப்பாடா... தப்பிச்சேன்."
+    }
+   ],
+   "caption_end": "உங்க வீட்டு கல்யாணத்துலயும் இப்படி தானா?"
+  }
+ ]
+}
