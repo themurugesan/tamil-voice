@@ -3,13 +3,13 @@
  "voices": {
   "narrator": {
    "voice": "ta-IN-ValluvarNeural",
-   "rate": "-12%",
-   "pitch": "-4Hz"
+   "rate": "-16%",
+   "pitch": "-10Hz"
   },
   "chant": {
    "voice": "ta-IN-ValluvarNeural",
-   "rate": "-5%",
-   "pitch": "+0Hz"
+   "rate": "-8%",
+   "pitch": "-6Hz"
   }
  },
  "shots": [
